@@ -9,7 +9,7 @@ const create = options => {
 	let qvery = options.qvery ? options.qvery : createQvery(options);
 
 	const api = ky.create({
-		prefixUrl: qvery.servers[0],
+		prefixUrl: qvery.currentServer,
 		beforeRetry: [
 			//
 			// TODO:
