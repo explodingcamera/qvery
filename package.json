@@ -7,10 +7,10 @@
  "devDependencies": {
   "@babel/cli": "^7.8.4",
   "@babel/core": "^7.9.0",
-  "@babel/preset-env": "^7.9.0",
-  "@explodingcamera/eslint-config": "^4.2.0",
+  "@babel/preset-env": "^7.9.5",
+  "@explodingcamera/eslint-config": "^5.1.0",
   "babel-plugin-module-resolver": "^4.0.0",
-  "core-js": "3",
+  "core-js": "3.6.5",
   "eslint": "^6.8.0",
   "esm": "^3.2.25"
  },

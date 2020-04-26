@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "src/index.js",
   "module": "lib/index.js",
-	"author": "Henry Gressmann <mail@henrygressmann.de> (https://henrygressmann.de)",
+  "author": "Henry Gressmann <mail@henrygressmann.de> (https://henrygressmann.de)",
   "license": "MIT",
   "scripts": {
     "prepublish": "babel src --out-dir lib",
@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "deepmerge": "^4.2.2",
-    "ky-universal": "^0.5.0"
-  } 
+    "ky-universal": "^0.6.0"
+  }
 }
- 
