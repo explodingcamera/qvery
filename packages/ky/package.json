@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "deepmerge": "^4.2.2",
-    "ky-universal": "^0.6.0"
+    "ky-universal": "^0.8.2"
   }
 }
